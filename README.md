@@ -138,9 +138,8 @@ git push origin feature-name
 
 ### License :page_with_curl:
 
-This project is licensed under the MIT License.
-
-See LICENSE for details.
+This project uses the [MIT License](https://opensource.org/licenses/MIT).  
+See [LICENSE](LICENSE) for the full text.
 
 
 ### Acknowledgments :pray:

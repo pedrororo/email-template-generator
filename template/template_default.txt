@@ -1,0 +1,18 @@
+{email_greeting}
+
+I hope you’re doing well. My name is {your_name}, and I’m excited to apply for the {position_title} role at {enterprise_name}. After reviewing the job description and learning about your venture-builder model, I believe my background in {relevant_experience} and passion for AI make me a strong candidate for the team.
+
+In my most recent role, I {main_responsibility}, which allowed me to deepen my expertise in {relevant_areas}. I am confident that my experience with {specific_tools} will contribute to the innovation and success of your projects.
+
+Additional resources:
+{additional_resources}
+
+I’ve also attached my CV to this email for your review.
+
+I would welcome the opportunity to discuss how my background and skills align with your needs at {enterprise_name}.
+
+Thank you for your time and consideration. I look forward to the possibility of working with you.
+
+{email_closing}
+{your_name}
+{contact_info}

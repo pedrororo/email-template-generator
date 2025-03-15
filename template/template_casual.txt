@@ -1,0 +1,16 @@
+{email_greeting}
+
+I hope you're doing great! My name is {your_name}, and I’m reaching out because I’m really excited about the {position_title} role at {enterprise_name}. I’ve been following your work, and I think my background in {relevant_experience} could be a great fit for your team.
+
+Recently, I {main_responsibility}, which gave me some awesome experience in {relevant_areas}. I’ve also worked extensively with tools like {specific_tools}, so I feel confident I can jump in and make an impact right away.
+
+Here are a few links to my work:
+{additional_resources}
+
+I’ve attached my CV to this email, and I’d love to chat more about how I can contribute to {enterprise_name}. Let me know if you’re available for a quick call—I’d be happy to share more about my experience.
+
+Thanks so much for your time, and I hope to hear from you soon!
+
+{email_closing}
+{your_name}
+{contact_info}

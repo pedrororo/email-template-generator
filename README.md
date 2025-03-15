@@ -1,6 +1,4 @@
-# email-template-generator
-
-Email Template Generator with PDF Export
+# Email Template Generator with PDF Export
 
 This Python application generates personalized email templates based on configuration files and exports the content into text files and a modern-styled PDF document. The tool is modular, customizable, and designed to streamline the process of creating professional application letters or emails.
 
@@ -24,10 +22,12 @@ Features
 - Customizable Styling: Modern design with clean typography, colors, and layout for the PDF output.
 
 Installation
+
 Prerequisites
 
 Python 3.7 or higher
 Pip (Python package manager)
+
 
 Steps
 
@@ -66,9 +66,8 @@ email-template-generator/
 Configuration
 The config.ini file contains all the necessary details for generating the email. Below is an example configuration:
 
-
-
 [ApplicationDetails]
+
 your_name = John Doe
 position_title = Software Engineer
 hiring_manager = Jane Smith
@@ -88,9 +87,9 @@ template_choice = formal
 
 
 Notes:
-Use # to comment out fields (e.g., portfolio_link = #).
-Ensure all required fields are filled in the [ApplicationDetails] section.
 
+Use '#' to comment out fields (e.g., portfolio_link = #).
+Ensure all required fields are filled in the [ApplicationDetails] section.
 
 
 Usage
@@ -105,6 +104,7 @@ python3 main.py default
 If no argument is provided, the application will use the template_choice value from config.ini.
 
 Example Commands
+
 Generate a formal email:
 
 python3 main.py formal
@@ -157,6 +157,7 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgments
+
 Built using Python's reportlab library for PDF generation.
 Inspired by modern resume/CV templates for the PDF styling.
 Feel free to customize this README.md further to match your personal style or add additional sections like screenshots, FAQs, or future plans. Once you're satisfied, upload it to your GitHub repository alongside your code.
